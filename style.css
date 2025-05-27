@@ -578,29 +578,9 @@ footer {
           background: none;
         }
 
-        button {
-          padding: 7px 15px;
-          background: var(--main-color);
-          border: none;
-          margin-top: 15px;
-          border-radius: 25px;
-          color: #fff;
-          cursor: pointer;
-        }
       }
     }
   }
 
-  .end {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 15px;
-    color: #000;
-
-    span {
-      color: var(--main-color);
-      margin-left: 10px;
-    }
-  }
+  
 }

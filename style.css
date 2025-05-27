@@ -591,17 +591,5 @@ footer {
     }
   }
 
-  .end {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 15px;
-    color: #000;
 
-    span {
-      color: var(--main-color);
-      margin-left: 10px;
-      
-    }
-  }
 }

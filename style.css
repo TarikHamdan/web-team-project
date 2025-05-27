@@ -566,17 +566,7 @@ footer {
         background: rgba(202, 202, 202);
         border-radius: 25px;
 
-        input {
-          width: 200px;
-          padding: 2px 0;
-          position: relative;
-          top: 17%;
-          left: 6%;
-          border: none;
-          outline: none;
-          font-size: 13px;
-          background: none;
-        }
+        
 
         button {
           padding: 7px 15px;

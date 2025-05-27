@@ -578,6 +578,15 @@ footer {
           background: none;
         }
 
+        button {
+          padding: 7px 15px;
+          background: var(--main-color);
+          border: none;
+          margin-top: 15px;
+          border-radius: 25px;
+          color: #fff;
+          cursor: pointer;
+        }
       }
     }
   }

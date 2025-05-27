@@ -8,4 +8,4 @@ toggle.addEventListener('click', () => {
 document.getElementById("change-theme").addEventListener("click", function () {
     const newColor = "#e74c3c";
     document.documentElement.style.setProperty('--main-color', newColor);
-  });
+});

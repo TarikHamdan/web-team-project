@@ -598,6 +598,9 @@ footer {
     padding: 15px;
     color: #000;
 
-
+    span {
+      color: var(--main-color);
+      margin-left: 10px;
+    }
   }
 }
